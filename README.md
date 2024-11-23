@@ -1,17 +1,16 @@
-# Send-Money-Project
+# money_page_project
 
-Purpose of the App
-The "Send Money" app is designed to provide users with a convenient, secure, and efficient way to transfer money to friends, family, and businesses. The app aims to simplify the process of sending and receiving money, making financial transactions seamless and accessible to everyone.
+A new Flutter project.
 
-Key Features Implemented
-User Authentication: Secure login and registration process to protect user accounts.
+## Getting Started
 
-Money Transfer: Easy and quick money transfer to other users within the app.
+This project is a starting point for a Flutter application.
 
-Transaction History: Detailed history of all transactions, allowing users to track their spending and receipts.
+A few resources to get you started if this is your first Flutter project:
 
-Notifications: Real-time notifications for successful transactions, failed attempts, and other important updates.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Multi-Currency Support: Ability to send and receive money in different currencies, with real-time exchange rate updates.
-
-Security Measures: Advanced security features such as encryption, two-factor authentication, and fraud detection to ensure the safety of user data and transactions.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
